@@ -7,7 +7,7 @@ Summary:	LHA (.lzh) file extract interface
 Summary(pl.UTF-8):	Interfejs do rozpakowywania plików LHA (.lzh)
 Name:		python-lhafile
 Version:	0.2.2
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/lhafile/
